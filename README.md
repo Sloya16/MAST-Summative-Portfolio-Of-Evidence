@@ -2,16 +2,16 @@
 
 A mobile application built with **React Native** and **Expo** that lets a chef manage a restaurant menu. This is the final Portfolio of Evidence (Part 3) for **MAST5112**. It continues the application created in Part 2 and adds editing, deleting, searching, filtering, menu statistics, and a full refactor.
 
-**Student:** Sbusiso <!-- add surname -->
-**Student number:** <!-- add student number -->
+**Student:** Sbusiso Kingsley Khoza
+**Student number:** ST10532951
 **Module:** MAST5112 - Mobile Application Development
 **Institution:** Rosebank College (The Independent Institute of Education)
 
 ## Links
 
-- **GitHub repository:** <!-- paste your repo link here -->
-- **Video demonstration (YouTube, Unlisted):** <!-- paste your video link here -->
-- **Expo Snack:** <!-- optional: paste your Snack link here -->
+- **GitHub repository:** 
+- **Video demonstration (YouTube, Unlisted):**
+
 
 ---
 
@@ -183,4 +183,4 @@ Open the Snack link above, then use the **Web**, **Android** or **iOS** preview,
 
 ## Author
 
-Sbusiso <!-- add surname -->, Higher Certificate in Mobile Application and Web Development, Rosebank College (IIE).
+Sbusiso Kingsley Khoza, Higher Certificate in Mobile Application and Web Development, Rosebank College (IIE).
