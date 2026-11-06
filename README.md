@@ -9,8 +9,8 @@ A mobile application built with **React Native** and **Expo** that lets a chef m
 
 ## Links
 
-- **GitHub repository:** 
-- **Video demonstration (YouTube, Unlisted):**
+- **GitHub repository:** https://github.com/Sloya16/MAST-Summative-Portfolio-Of-Evidence.git
+- **Video demonstration (YouTube, Unlisted):**https://www.youtube.com/watch?v=j42PscmPg_o
 
 
 ---
